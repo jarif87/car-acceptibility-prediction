@@ -1,2 +1,8 @@
 flask
 scikit-learn==1.2.2
+pandas
+xgboost
+gunicorn
+catboost
+numpy==1.26.4
+gunicorn
